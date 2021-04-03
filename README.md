@@ -1,1 +1,1 @@
-# 2020 Version of the Website
+# 2020 Version of the Workshop
